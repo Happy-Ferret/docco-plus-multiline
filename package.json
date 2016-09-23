@@ -1,6 +1,6 @@
 {
     "name": "docco-plus-multiline",
-    "description": "Extending docco to work on multi-folder structures & multiline comments",
+    "description": "Extending docco to work on multi-folder structures and multiline comments",
     "homepage": "https://github.com/shcerbin/docco-plus-multiline",
     "main": "./lib/document",
     "version": "3.0.1",
