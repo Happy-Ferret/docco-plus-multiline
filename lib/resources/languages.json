@@ -109,7 +109,10 @@
     },
     ".js": {
         "name": "javascript",
-        "inlineComment": "//"
+        "inlineComment": "//",
+        "multiLineCommentStart": "/*",
+        "multiLineCommentEnd": "*/",
+        "removeMultiLineSpecial": [" * ", "*\r", "*\n"]
     },
     ".jsm": {
         "name": "javascript",
@@ -226,7 +229,10 @@
     },
     ".scss": {
         "name": "scss",
-        "inlineComment": "//"
+        "inlineComment": "//",
+        "multiLineCommentStart": "/*",
+        "multiLineCommentEnd": "*/",
+        "removeMultiLineSpecial": [" * ", "*\r", "*\n"]
     },
     ".sh": {
         "name": "bash",
