@@ -114,6 +114,11 @@
         "multiLineCommentEnd": "*/",
         "removeMultiLineSpecial": [" * ", "*\r", "*\n"]
     },
+    ".html": {
+        "name": "html",
+        "multiLineCommentStart": "<!--",
+        "multiLineCommentEnd": "-->"
+    },
     ".jsm": {
         "name": "javascript",
         "inlineComment": "//"
@@ -226,6 +231,13 @@
     ".scpt": {
         "name": "applescript",
         "inlineComment": "--"
+    },
+    ".css": {
+        "name": "css",
+        "inlineComment": "//",
+        "multiLineCommentStart": "/*",
+        "multiLineCommentEnd": "*/",
+        "removeMultiLineSpecial": [" * ", "*\r", "*\n"]
     },
     ".scss": {
         "name": "scss",

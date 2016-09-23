@@ -45,7 +45,7 @@ docco-plus-multiline [options] FILES
 }
 
 ```
-Use the header `language` file to support the multiline comment in languages ​​other than `js` and `scss`
+Use the header `language` file to support the multiline comment in languages ​​other than `js`, `html`, `css` and `scss`
 
 #### Options:
 
