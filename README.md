@@ -8,11 +8,11 @@
 
 ### Installation and Setup
 
-Install docco-plus globally using the command
+Install docco-plus-multiline globally using the command
 
 ```shell
 
-sudo npm install -g docco-plus
+sudo npm install -g docco-plus-multiline
 
 ```
 
@@ -20,7 +20,7 @@ sudo npm install -g docco-plus
 
 ```shell
 
-docco-plus [options] FILES
+docco-plus-multiline [options] FILES
 
 ```
 
@@ -49,7 +49,7 @@ Use the header `language` file to support the multiline comment in languages ​
 
 #### Options:
 
-Options available for docco-plus are listed below, These options do the same thing as docco options. In fact, they are
+Options available for docco-plus-multiline are listed below, These options do the same thing as docco options. In fact, they are
 passed as-is to the docco processor. Refer the Docco documentation on more details about these options.
 
  - `-h` or `--help` output usage information

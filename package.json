@@ -3,7 +3,7 @@
     "description": "Extending docco to work on multi-folder structures & multiline comments",
     "homepage": "https://github.com/shcerbin/docco-plus-multiline",
     "main": "./lib/document",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "scripts": {
         "test": "grunt jshint"
     },
